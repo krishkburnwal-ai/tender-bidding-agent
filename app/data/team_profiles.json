@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Dr. Rajesh Sharma",
+    "role": "Chief Solution Architect & Project Director",
+    "experience_years": 18,
+    "qualifications": "Ph.D. Computer Science, M.Tech IIT Delhi, B.Tech CSE",
+    "certifications": [
+      "PMP (PMI)",
+      "AWS Certified Solutions Architect - Professional",
+      "TOGAF 9.2 Certified"
+    ],
+    "relevant_projects": "Project Director for Karnataka e-Governance Portal and Pune Smart City ICCC."
+  },
+  {
+    "name": "Priya Nair",
+    "role": "Lead Cloud Infrastructure & DevOps Architect",
+    "experience_years": 13,
+    "qualifications": "M.S. Software Systems (BITS Pilani), B.Tech IT",
+    "certifications": [
+      "CKA (Certified Kubernetes Administrator)",
+      "Microsoft Azure Solutions Architect Expert",
+      "HashiCorp Certified Terraform Associate"
+    ],
+    "relevant_projects": "Led cloud migration and High Availability deployment for State Health MIS and Urban Citizen Portal."
+  },
+  {
+    "name": "Amitav Roy",
+    "role": "Principal Cybersecurity & Compliance Lead",
+    "experience_years": 11,
+    "qualifications": "B.Tech CSE, Executive PG Diploma in Cyber Law & Security",
+    "certifications": [
+      "CISSP (Certified Information Systems Security Professional)",
+      "CEH (Certified Ethical Hacker)",
+      "ISO 27001 Lead Auditor"
+    ],
+    "relevant_projects": "Spearheaded STQC and CERT-In security audits for 5+ government procurement and citizen applications."
+  },
+  {
+    "name": "Sneha Kulkarni",
+    "role": "Quality Assurance & Service Delivery Manager",
+    "experience_years": 10,
+    "qualifications": "B.E. Information Technology, MBA Project Management",
+    "certifications": [
+      "ISTQB Advanced Level",
+      "Certified ScrumMaster (CSM)",
+      "ITIL v4 Managing Professional"
+    ],
+    "relevant_projects": "Managed SLA delivery, automated regression test suites, and 24x7 operations center for Pune Smart City."
+  }
+]

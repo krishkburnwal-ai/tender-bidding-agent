@@ -1,0 +1,81 @@
+[
+  {
+    "id": "PROP-2024-001",
+    "project_name": "State-wide Unified e-Governance Citizen Portal & Single Window Clearance",
+    "client": "Department of Electronics & IT, Government of Karnataka",
+    "contract_value_inr": 148000000,
+    "contract_value_crores": 14.8,
+    "duration_months": 36,
+    "status": "Successfully Delivered & Maintained",
+    "completion_year": 2024,
+    "scope_summary": "Architecture, cloud migration, containerization, and 24x7 SLA support for a high-traffic citizen service portal handling 15M+ requests annually. Integrated with DigiLocker, Aadhaar SSO, and payment gateways.",
+    "technologies": [
+      "Kubernetes",
+      "PostgreSQL Enterprise",
+      "React",
+      "Python FastAPI",
+      "Kafka",
+      "AWS GovCloud"
+    ],
+    "outcomes": "Achieved 99.98% uptime across 3 years. Reduced average citizen application turnaround from 14 days to 48 hours. Won National e-Governance Award 2024."
+  },
+  {
+    "id": "PROP-2023-014",
+    "project_name": "Smart City Integrated Command and Control Center (ICCC) IoT Data Platform",
+    "client": "Pune Smart City Development Corporation Ltd. (PSCDCL)",
+    "contract_value_inr": 185000000,
+    "contract_value_crores": 18.5,
+    "duration_months": 48,
+    "status": "Active / Fully Operational",
+    "completion_year": 2023,
+    "scope_summary": "Designed and deployed city-wide IoT telemetry ingestion engine, smart traffic management integration, environmental sensor dashboards, and GIS geospatial mapping for municipal surveillance.",
+    "technologies": [
+      "Apache Kafka",
+      "TimescaleDB",
+      "Microservices",
+      "Docker",
+      "GIS Mapbox",
+      "Edge Gateways"
+    ],
+    "outcomes": "Connecting over 3,200 real-time sensors across the metropolitan zone with sub-second alert dispatch."
+  },
+  {
+    "id": "PROP-2022-009",
+    "project_name": "Cloud-Based Healthcare MIS & Hospital Operations Platform",
+    "client": "State Health Assurance Society, Maharashtra",
+    "contract_value_inr": 92000000,
+    "contract_value_crores": 9.2,
+    "duration_months": 24,
+    "status": "Successfully Completed",
+    "completion_year": 2023,
+    "scope_summary": "Digitization of 450+ district and taluka hospital health records, Ayushman Bharat Digital Mission (ABDM) integration, telemedicine modules, and automated drug inventory tracking.",
+    "technologies": [
+      "Python",
+      "Angular",
+      "Redis",
+      "Elasticsearch",
+      "ABDM M1/M2/M3 APIs",
+      "PostgreSQL"
+    ],
+    "outcomes": "Over 4.5 million patient electronic medical records secured; 100% compliance with ABDM national standards."
+  },
+  {
+    "id": "PROP-2022-003",
+    "project_name": "AI-Powered Citizen Grievance Redressal & Ticket Management Automation",
+    "client": "Municipal Corporation of Greater Mumbai (MCGM)",
+    "contract_value_inr": 64000000,
+    "contract_value_crores": 6.4,
+    "duration_months": 24,
+    "status": "Successfully Completed",
+    "completion_year": 2022,
+    "scope_summary": "Automated multilingual grievance classification, routing, and sentiment escalation using NLP for civic complaints across WhatsApp, web, and IVR.",
+    "technologies": [
+      "NLP LLM Pipelines",
+      "FastAPI",
+      "React",
+      "RabbitMQ",
+      "PostgreSQL"
+    ],
+    "outcomes": "64% reduction in first-response resolution time; 100,000+ tickets auto-categorized every month."
+  }
+]

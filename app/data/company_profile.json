@@ -1,0 +1,64 @@
+{
+  "company_name": "NexGen Infotech & Solutions Pvt. Ltd.",
+  "registration_number": "U72200DL2016PTC294812",
+  "incorporation_year": 2016,
+  "years_in_business": 10,
+  "headquarters": "New Delhi & Bengaluru, India",
+  "pan_number": "AABCN1234F",
+  "gstin": "07AABCN1234F1Z9",
+  "msme_registration": "UDYAM-DL-08-0029410 (Medium Enterprise)",
+  "dpiit_recognized": true,
+  "total_workforce": 145,
+  "financials": {
+    "turnover_fy_23_24_inr": 425000000,
+    "turnover_fy_22_23_inr": 358000000,
+    "turnover_fy_21_22_inr": 284000000,
+    "average_annual_turnover_inr": 355666667,
+    "average_turnover_crores": 35.57,
+    "net_worth_inr": 182000000,
+    "net_worth_crores": 18.2,
+    "solvency_certificate_amount_inr": 150000000,
+    "solvency_crores": 15.0,
+    "banker": "State Bank of India (CAG Branch)"
+  },
+  "certifications": [
+    {
+      "name": "ISO 9001:2015",
+      "desc": "Quality Management Systems",
+      "valid_until": "2027-11-30"
+    },
+    {
+      "name": "ISO 27001:2022",
+      "desc": "Information Security Management",
+      "valid_until": "2027-08-15"
+    },
+    {
+      "name": "ISO 20000-1:2018",
+      "desc": "IT Service Management",
+      "valid_until": "2028-02-28"
+    },
+    {
+      "name": "CMMI Level 3 (DEV)",
+      "desc": "Capability Maturity Model Integration",
+      "valid_until": "2027-05-14"
+    },
+    {
+      "name": "SOC 2 Type II",
+      "desc": "Security, Availability & Confidentiality",
+      "valid_until": "2026-12-31"
+    },
+    {
+      "name": "MeitY Cloud Partner",
+      "desc": "Empanelled MSP with AWS, Azure & CtrlS",
+      "valid_until": "Active"
+    }
+  ],
+  "core_competencies": [
+    "Cloud Migration & Cloud-Native Microservices Architecture",
+    "Large-scale e-Governance & Citizen Portal Development",
+    "Smart City IoT Platforms & Integrated Command Control Centers (ICCC)",
+    "Enterprise AI/ML, NLP Document Digitization & Process Automation",
+    "Cybersecurity Operations, DevSecOps & Zero Trust Architecture",
+    "24x7 Tier-3 IT Managed Operations & SLA-Backed Support (99.95% uptime)"
+  ]
+}
