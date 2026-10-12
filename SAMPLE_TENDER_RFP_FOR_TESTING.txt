@@ -1,0 +1,91 @@
+GOVERNMENT OF INDIA
+NATIONAL e-GOVERNANCE DIVISION (NeGD)
+Ministry of Electronics and Information Technology (MeitY)
+Electronics Niketan, 6, CGO Complex, Lodhi Road, New Delhi - 110003
+
+NOTICE INVITING TENDER (NIT) & REQUEST FOR PROPOSAL (RFP)
+Tender Notification Ref: NeGD/RFP/2026/AI-CITIZEN/114
+GeM Bid Portal Reference: GEM/2026/B/7719203
+Date of Issue: 08-October-2026
+
+SUBJECT:
+Request for Proposal (RFP) for Selection of Master System Integrator (MSI) for Architecture Redesign, Cloud Migration, 
+and 36 Months 24x7 Operations of AI-Powered National Citizen Service & Grievance Redressal Portal.
+
+1. CRITICAL DATES & SUBMISSION DEADLINES:
+- RFP Document Download Start Date: 08-October-2026, 10:00 Hrs
+- Pre-Bid Meeting Date & Time: 21-October-2026, 11:30 Hrs (Hybrid - Video Conference & NeGD Conference Hall)
+- Last Date for Seeking Clarifications: 24-October-2026, 17:00 Hrs
+- NeGD Response to Queries / Issue of Corrigendum: 27-October-2026, 18:00 Hrs
+- Bid Submission Due Date & Time (Closing Date): 05-November-2026, 15:00 Hrs
+- Technical Bid Opening Date & Time: 06-November-2026, 15:30 Hrs
+- Financial / Commercial Bid Opening: To be notified to technically qualified bidders
+- Bid Validity Period: 180 Days from Bid Submission Closing Date
+
+2. FINANCIAL PARTICULARS & BID SECURITY:
+- Estimated Project Value: INR 16,50,00,000/- (Rupees Sixteen Crores Fifty Lakhs only) inclusive of all taxes.
+- Earnest Money Deposit (EMD): INR 33,00,000/- (Rupees Thirty Three Lakhs only) in the form of Bank Guarantee or Electronic Payment. (MSEs registered with Udyam and DPIIT Startups are exempt from EMD upon submission of valid registration).
+- Tender Processing Fee: INR 10,000/- (Non-refundable).
+- Performance Bank Guarantee (PBG): 3% of the Total Contract Value valid for 42 months, to be furnished within 15 days of Letter of Award (LoA).
+
+3. MINIMUM ELIGIBILITY & QUALIFICATION CRITERIA (PRE-QUALIFICATION):
+3.1 Financial Eligibility Criteria:
+- The Bidder must have an Average Annual Turnover of at least INR 25.00 Crores (Twenty Five Crores) across the last three audited financial years (FY 2021-22, FY 2022-23, and FY 2023-24). Audited balance sheets with UDIN are mandatory.
+- The Bidder must have a Positive Net Worth in each of the last three audited financial years.
+- The Bidder must submit a Bank Solvency Certificate of minimum INR 6.00 Crores issued by a Scheduled Commercial Bank within 3 months of tender publication.
+- Public Procurement Policy Relaxation: 50% relaxation in Turnover is permissible for registered MSEs and Startups as per Department of Expenditure guidelines.
+
+3.2 Technical & Prior Experience Criteria:
+- The Bidder must be an incorporated legal entity in India for at least five (5) completed years as of 31-March-2026.
+- The Bidder must have successfully executed similar IT modernization / Cloud migration / e-Governance portal assignments in Central/State Government, PSUs, or Municipal Corporations meeting either of the following conditions during the last 5 years:
+  a) One single completed contract of similar nature valued at not less than INR 12.00 Crores; OR
+  b) Two completed contracts of similar nature valued at not less than INR 8.00 Crores each; OR
+  c) Three completed contracts of similar nature valued at not less than INR 5.00 Crores each.
+- Satisfactory Work Completion Certificates signed by an authorized client officer must be enclosed.
+
+3.3 Quality & Security Certifications:
+- The Bidder must possess valid certifications as on the bid submission date:
+  a) ISO 9001:2015 (Quality Management System)
+  b) ISO 27001:2022 (Information Security Management System)
+  c) CMMI Level 3 (or above) for Services or Development
+  d) Empanelled partnership with MeitY-approved Cloud Service Providers (CSPs).
+
+3.4 Statutory & General Declarations:
+- Valid GSTIN registration and PAN Card.
+- EPF and ESIC registration with latest deposit challans.
+- Self-declaration on INR 100 Non-Judicial Stamp paper stating that the Bidder has not been debarred / blacklisted by any Government department or multilateral agency.
+
+4. SCOPE OF WORK & TECHNICAL SPECIFICATIONS:
+4.1 Cloud Infrastructure & Architecture:
+- Architectural assessment, containerization (Docker / Kubernetes), and migration of existing portals to MeitY-empanelled Cloud Service Provider.
+- Multi-Availability Zone deployment with active-active database clustering (PostgreSQL Enterprise / MySQL) ensuring RPO < 15 minutes and RTO < 1 hour.
+- Implementation of Web Application Firewall (WAF), DDoS protection, and automated TLS 1.3 encryption.
+
+4.2 AI Multilingual Citizen Services & Digital Public Infrastructure (DPI):
+- Microservices-based modular redesign for high concurrency (> 50,000 concurrent citizen sessions).
+- Integration of multilingual AI chatbots and automated NLP grievance classification in 12 Indian languages.
+- Deep integration with National Digital Public Infrastructure (DPI):
+  - Aadhaar e-KYC and Authentication via UIDAI APIs
+  - DigiLocker document verification and certificate issuance
+  - Payment Gateways (Bharat BillPay, UPI, Netbanking) with automated reconciliation.
+
+4.3 24x7 Operations, Maintenance & SLA Commitments:
+- Continuous 24x7 Tier-3 monitoring, security incident response, and performance tuning for 36 months.
+- System Availability SLA: 99.95% monthly uptime.
+- Incident Resolution SLA: Severity 1 (Critical) resolution within 2 hours; Severity 2 within 6 hours.
+- Mandatory clearance of annual STQC and CERT-In empanelled cybersecurity audits prior to production deployments.
+
+5. EVALUATION METHODOLOGY:
+- Bids will be evaluated under Quality and Cost Based Selection (QCBS) with 70% weightage assigned to Technical Evaluation and 30% weightage to Financial Evaluation.
+- Minimum qualifying score in Technical Bid Evaluation is 75 out of 100 marks. Only bidders achieving 75+ marks will be considered for financial bid opening.
+
+6. MANDATORY SUBMISSION CHECKLIST (ANNEXURES):
+- Annexure-A: Form of Bid & Covering Letter on Company Letterhead
+- Annexure-B: EMD Guarantee / MSME Exemption Certificate
+- Annexure-C: CA Certified Turnover Certificate & Audited Balance Sheets
+- Annexure-D: Past Project Experience & Completion Certificates
+- Annexure-E: Proposed Technical Architecture & Work Methodology
+- Annexure-F: Key Personnel Profiles (Project Director, Cloud Architect, Cyber Lead, QA Manager)
+- Annexure-G: Non-Blacklisting Affidavit and Integrity Pact on Stamp Paper
+- Annexure-H: Clause-by-Clause Compliance Matrix (Nil Deviations)
+- Financial Proposal: BoQ uploaded in Excel format through GeM portal.
